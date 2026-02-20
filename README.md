@@ -81,14 +81,3 @@ Para aumentar o limite para **5.000 requisições por hora**, você pode usar um
    - Pare o servidor (Ctrl+C)
    - Execute `npm start` novamente
 
-### Sem Token
-
-Se você não configurar o token, o portfólio funcionará normalmente, mas com limite de 60 requisições por hora. Isso geralmente é suficiente para uso pessoal.
-
-### Segurança
-
-- ⚠️ **NUNCA** compartilhe seu token do GitHub
-- ⚠️ **NUNCA** faça commit do arquivo `.env`
-- ✅ O token é usado apenas no frontend para aumentar o limite de requisições
-- ✅ Apenas repositórios públicos são acessíveis
-
