@@ -9,7 +9,7 @@ const Hero = () => {
           I'M <span className="highlight">MARIANA LEITE</span>
         </h1>
         <p className="hero-subtitle">
-          Desenvolvedora Backend • Aspirante Full Stack • Resolvedora de Problemas
+          Desenvolvedora Backend • Aspirante Full Stack 
         </p>
         <div className="hero-buttons">
           <a href="#projects" className="btn btn-primary">Ver Meus Projetos</a>
